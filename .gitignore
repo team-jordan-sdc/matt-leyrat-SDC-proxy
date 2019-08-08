@@ -4,3 +4,4 @@ castbundle.js
 reviewbundle.js
 vendorbundle.js
 runtimebundle.js
+.env
