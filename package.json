@@ -20,11 +20,14 @@
   "homepage": "https://github.com/fec1-arwen/HBMattoon_proxy#readme",
   "dependencies": {
     "body-parser": "^1.17.0",
+    "dotenv": "^8.0.0",
     "express": "^4.15.0",
+    "newrelic": "^5.11.0",
     "node-fetch": "^2.6.0",
+    "nodemon": "^1.19.1",
+    "path": "^0.12.7",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "path": "^0.12.7",
     "styled-components": "^4.3.2"
   },
   "devDependencies": {
